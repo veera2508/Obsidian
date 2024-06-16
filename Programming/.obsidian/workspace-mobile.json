@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "b8456a31bce41bb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "598be317dfd48a69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ea2e5540debba2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Kernal Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fc9101a38cb0a22",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cd5e26f42affb469",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2fc508547cea3e0f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e1b303450958e872",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "631e3193a9b14f8e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "40697d90baf8358e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "12bda759d59b9c11",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "C Kernal Roadmap.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a581e129e90b7033",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "C Kernal Roadmap.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5bbbd778447cb83e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "C Kernal Roadmap.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false
+    }
+  },
+  "active": "cd5e26f42affb469",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "C Kernal Roadmap.md"
+  ]
+}

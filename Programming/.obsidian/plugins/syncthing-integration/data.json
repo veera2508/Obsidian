@@ -1,0 +1,13 @@
+{
+  "configuration": {
+    "url": {
+      "protocol": "http",
+      "ip_address": "127.0.0.1",
+      "port": 8384
+    }
+  },
+  "devMode": false,
+  "gui_username": "Veeraraghavan",
+  "gui_password": "Avatar#25",
+  "api_key": "CismTKpTryX5T7QGQNQcwCMGpGbqcGs6"
+}
