@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Compiler Roadmap.md",
+                "file": "General Programming/Compiler Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdb0ba744d8e2d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Projects/C Networking/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Compiler Roadmap.md",
+                "file": "Personal Projects/C Networking/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Compiler Roadmap.md",
+                "file": "Personal Projects/C Networking/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Compiler Roadmap.md"
+                "file": "Personal Projects/C Networking/Basics.md"
               }
             }
           }
@@ -158,13 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ab6d7f45c759597",
+  "active": "fdb0ba744d8e2d03",
   "lastOpenFiles": [
+    "General Programming/Compiler Roadmap.md",
+    "Personal Projects/C Networking/Basics.md",
+    "Personal Projects/C Networking",
+    "Personal Projects",
     "Interview Resources/System Design Guide.md",
-    "Programming/Compiler Roadmap.md",
-    "Untitled",
-    "Programming/C Kernal Roadmap.md",
-    "Programming/Computer Arch Real World Examples.md",
+    "General Programming/C Kernal Roadmap.md",
+    "General Programming/Computer Arch Real World Examples.md",
     "Interview Resources"
   ]
 }
