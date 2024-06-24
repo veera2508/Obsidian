@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "283057c2b3227378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a33e5aa3cf136643",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Projects/C Networking/Basics.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Projects/C Networking/Basics.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Projects/C Networking/Basics.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -171,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdb0ba744d8e2d03",
+  "active": "283057c2b3227378",
   "lastOpenFiles": [
-    "General Programming/Compiler Roadmap.md",
     "Personal Projects/C Networking/Basics.md",
+    "conflict-files-obsidian-git.md",
+    "General Programming/Compiler Roadmap.md",
     "Personal Projects/C Networking",
     "Personal Projects",
     "Interview Resources/System Design Guide.md",
