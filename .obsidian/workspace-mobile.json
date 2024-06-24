@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "1cebf91c694cf8e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "df64908dbff08714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47c08ab5541b6d35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32a90f7f77d96e12",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "34df0e826b41ac5c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "80b4abdfc672bf7f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a48fc2e91c9fa654",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "87ef5e28ade66538",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ed0e1e65c5f26811",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8ebdb7dec34e923a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "33931ddd9b6a7d6d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9fe144b0833534bd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "47c08ab5541b6d35",
+  "lastOpenFiles": [
+    "Personal Projects/C Networking/Basics.md",
+    "General Programming/Computer Arch Real World Examples.md",
+    "General Programming/Compiler Roadmap.md",
+    "General Programming/C Kernal Roadmap.md",
+    "/Personal Projects/C Networking/Basics.md",
+    "/General Programming/Computer Arch Real World Examples.md",
+    "/General Programming/Compiler Roadmap.md",
+    "/General Programming/C Kernal Roadmap.md",
+    "Programming/C Kernal Roadmap.md",
+    "Personal Projects/C Networking",
+    "Personal Projects",
+    "General Programming",
+    "/Personal Projects/C Networking",
+    "/Personal Projects",
+    "/General Programming",
+    "Programming/Computer Arch Real World Examples.md",
+    "Interview Resources/System Design Guide.md",
+    "Programming/Compiler Roadmap.md",
+    "Programming",
+    "Interview Resources"
+  ]
+}
