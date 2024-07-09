@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "313734120406f591",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "a33e5aa3cf136643",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdb0ba744d8e2d03",
+  "active": "313734120406f591",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Personal Projects/C Networking/Basics.md",
