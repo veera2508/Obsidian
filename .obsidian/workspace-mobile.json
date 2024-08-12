@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Projects/C Networking/Basics.md",
+                "file": "Linkedin Networking/Profile Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personal Projects/C Networking/Basics.md",
+            "file": "Linkedin Networking/Profile Links.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Personal Projects/C Networking/Basics.md",
+            "file": "Linkedin Networking/Profile Links.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Personal Projects/C Networking/Basics.md"
+            "file": "Linkedin Networking/Profile Links.md"
           }
         }
       }
@@ -134,6 +134,10 @@
   "active": "47c08ab5541b6d35",
   "lastOpenFiles": [
     "Personal Projects/C Networking/Basics.md",
+    "Linkedin Networking/Profile Links.md",
+    "/Linkedin Networking/Profile Links.md",
+    "Linkedin Networking",
+    "/Linkedin Networking",
     "General Programming/Computer Arch Real World Examples.md",
     "General Programming/Compiler Roadmap.md",
     "General Programming/C Kernal Roadmap.md",
