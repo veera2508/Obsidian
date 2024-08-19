@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4092c87445eaa690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphics CS 561/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linkedin Networking/Profile Links.md",
+                "file": "Graphics CS 561/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linkedin Networking/Profile Links.md",
+                "file": "Graphics CS 561/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linkedin Networking/Profile Links.md"
+                "file": "Graphics CS 561/Lecture 1.md"
               }
             }
           }
@@ -183,10 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37569cf0680264d7",
+  "active": "4092c87445eaa690",
   "lastOpenFiles": [
-    "General Programming/C Kernal Roadmap.md",
     "Linkedin Networking/Profile Links.md",
+    "Graphics CS 561/Lecture 1.md",
+    "Untitled",
+    "Graphics CS 561",
+    "General Programming/C Kernal Roadmap.md",
     "Linkedin Networking",
     "Interview Resources/System Design Guide.md",
     "Personal Projects/C Networking/Basics.md",
