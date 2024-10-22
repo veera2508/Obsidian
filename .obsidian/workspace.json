@@ -16,7 +16,9 @@
                 "file": "General Programming/Compiler Roadmap.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Compiler Roadmap"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Personal Projects/C Networking/Basics.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Basics"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "General Programming/C Kernal Roadmap.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "C Kernal Roadmap"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Linkedin Networking/Profile Links.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Profile Links"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Graphics CS 561/Lecture 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1"
             }
           }
         ],
@@ -88,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -103,7 +115,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -111,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -142,7 +158,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lecture 1"
             }
           },
           {
@@ -154,7 +172,9 @@
                 "file": "Graphics CS 561/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lecture 1"
             }
           },
           {
@@ -165,7 +185,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -175,7 +197,9 @@
               "type": "outline",
               "state": {
                 "file": "Graphics CS 561/Lecture 1.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lecture 1"
             }
           }
         ]
