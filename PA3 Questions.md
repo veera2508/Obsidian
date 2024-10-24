@@ -1,0 +1,1 @@
+1. Can everything be done using asm and not drect assembly?
